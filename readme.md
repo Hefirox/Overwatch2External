@@ -1,10 +1,9 @@
 # PxwnLoader Ow2 Cheat
 
 
-Status: Undetected (06/11/22)
+Status: Undetected (12/11/22)
 
-
-Download : https://anonfiles.com/S8Iba7G3y6
+Download : https://gofile.io/d/a1nQQ2
 
 
 It can be used with an ahk script just make sure to not cover outlines of the skins with the esp
